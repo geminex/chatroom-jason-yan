@@ -1,6 +1,0 @@
-Server: client456 has joined the chatroom.
-Server: admin has joined the chatroom.
-admin: hello
-client456: hello
-Server: admin has left the chatroom.
-Server: client456 has left the chatroom.
